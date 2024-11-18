@@ -1,0 +1,41 @@
+body {
+  margin: 10px;
+  padding: 40px;
+  background-color:indianred ;
+  color: black;
+  font-family: fantasy;
+  font-size: 47px;
+}
+h1{
+  font-family: cursive;
+  padding-left: 200px;
+}
+body * {
+  box-sizing: border-box;
+}
+
+input {
+  font-size: 3rem;
+}
+button {
+  font-size: 2rem;
+  border-radius: 1rem;
+  background-color: seagreen;
+  color: whitesmoke;
+}
+
+
+#title {
+  transition: all 3s;
+}
+
+.specialTitle {
+  text-decoration: underline;
+
+}
+
+#outputText {
+  background-color: darkkhaki;
+  padding: 3vmin;
+  border-radius: 25px;
+}
